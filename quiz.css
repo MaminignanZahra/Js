@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(121, 47%, 79%);
+}
+h1{
+    text-align: center;
+}
+.questions{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.questions h3{
+    color:hwb(121 1% 79%)  ;
+}
+button{
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: hwb(121 1% 79%) ;
+    border: none
+  
+}
+
